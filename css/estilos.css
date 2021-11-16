@@ -27,12 +27,6 @@
 	align-items: center;
 }
 
-.container-what-we-do{
-	display: flex;
-	justify-content: space-between;
-	align-items: flex-end;
-}
-
 
 .nav_bar_1 ul {
 	display: flex;
